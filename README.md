@@ -1,2 +1,2 @@
 # Breast_Cancer_Detection
-Web application
+This web application is developed using four libraries they are tensorflow, keras, numpy, streamlit.
